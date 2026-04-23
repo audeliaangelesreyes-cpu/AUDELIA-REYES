@@ -17,4 +17,4 @@ Soy Docente de la Asignatura Ciencias de la Computacion actualmente formándome 
 ------------------------------------------------------------------------------------------------------------------------------
 ## Contacto 📫(7865-4904)
 * [Correo Electronico] (audelia.angeles.reyes@clases.edu.sv)
-* **Link al repo:** (https://github.com/audeliaangelesreyes-cpu/AUDELIA-REYES/new/main?filename=README.md))
+* **Link al repo:** (https://github.com/audeliaangelesreyes-cpu/AUDELIA-REYES/edit/main/README.md)
