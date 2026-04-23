@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Audelia Reyes] 👋
+# ¡Hola! Mi Nombre es [Audelia Reyes] 👋
 ## Sobre mí 
 Soy Docente de la Asignatura Ciencias de la Computacion actualmente formándome en [el curso de Transformacion Digital para la Docencia Tecnica]. Me enfoco en aprender constantemente sobre nuevas herramientas de desarrollo tecnologico.
 
